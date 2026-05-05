@@ -1,0 +1,5 @@
+preview-*.png
+slide1Pitchdeck.png
+node_modules/
+.DS_Store
+Thumbs.db
