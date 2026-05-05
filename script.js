@@ -32,7 +32,7 @@ const translations = {
     missionTitle: "A energia era fisica e opaca.",
     missionText:
       "Tornamo-la mensuravel, estruturada, programavel e comprovavel criptograficamente — como software. 🏌️",
-    footerText: "Serial Alice primeiro. O resto vem a seguir.",
+    footerText: "We transformed the sun ☀️ into computing power 🚀",
     quickActionsLabel: "Contactos principais",
     capabilitiesLabel: "Capacidades principais",
     profilePhotoAlt: "Foto de Nelson Vicente",
@@ -70,7 +70,7 @@ const translations = {
     missionTitle: "Energy was physical and opaque.",
     missionText:
       "We made it measurable, structured, programmable and cryptographically provable — like software. 🏌️",
-    footerText: "Serial Alice first. Everything else follows.",
+    footerText: "We transformed the sun ☀️ into computing power 🚀",
     quickActionsLabel: "Main contacts",
     capabilitiesLabel: "Core capabilities",
     profilePhotoAlt: "Photo of Nelson Vicente",
