@@ -28,6 +28,10 @@ const translations = {
     capabilityThreePointA: "Assinatura ao nivel do hardware",
     capabilityThreePointB: "Verificacao on-chain",
     capabilityThreePointC: "Certificados prontos para auditoria",
+    missionKicker: "Grande objetivo",
+    missionTitle: "Transformar energia em software.",
+    missionText:
+      "O objetivo e construir a primeira camada operacional onde energia real pode ser medida, assinada, verificada e usada como infraestrutura digital.",
     footerText: "Serial Alice primeiro. O resto vem a seguir.",
     quickActionsLabel: "Contactos principais",
     capabilitiesLabel: "Capacidades principais",
@@ -62,6 +66,10 @@ const translations = {
     capabilityThreePointA: "Hardware-level signing",
     capabilityThreePointB: "On-chain verification",
     capabilityThreePointC: "Audit-ready certificates",
+    missionKicker: "Big goal",
+    missionTitle: "Turn energy into software.",
+    missionText:
+      "The goal is to build the first operational layer where real energy can be measured, signed, verified and used as digital infrastructure.",
     footerText: "Serial Alice first. Everything else follows.",
     quickActionsLabel: "Main contacts",
     capabilitiesLabel: "Core capabilities",
