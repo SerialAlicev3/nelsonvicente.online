@@ -31,7 +31,7 @@ const translations = {
     missionKicker: "Grande objetivo",
     missionTitle: "Transformar energia em software.",
     missionText:
-      "O objetivo e construir a primeira camada operacional onde energia real pode ser medida, assinada, verificada e usada como infraestrutura digital.",
+      "Ja medimos energia real e geramos relatorios criptografados, assinados por Fortex e prontos para verificacao. O grande objetivo e transformar cada watt num ativo digital confiavel.",
     footerText: "Serial Alice primeiro. O resto vem a seguir.",
     quickActionsLabel: "Contactos principais",
     capabilitiesLabel: "Capacidades principais",
@@ -69,7 +69,7 @@ const translations = {
     missionKicker: "Big goal",
     missionTitle: "Turn energy into software.",
     missionText:
-      "The goal is to build the first operational layer where real energy can be measured, signed, verified and used as digital infrastructure.",
+      "We already measure real energy and generate encrypted reports, signed by Fortex and ready for verification. The big goal is to turn every watt into a trusted digital asset.",
     footerText: "Serial Alice first. Everything else follows.",
     quickActionsLabel: "Main contacts",
     capabilitiesLabel: "Core capabilities",
