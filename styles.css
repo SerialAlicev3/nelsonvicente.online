@@ -328,6 +328,12 @@ h2 {
   border-color: rgba(255, 255, 255, 0.2);
 }
 
+.project-icon.linkedin {
+  background:
+    radial-gradient(circle at 25% 20%, rgba(255, 255, 255, 0.24), transparent 30%),
+    linear-gradient(135deg, rgba(10, 102, 194, 0.62), rgba(0, 239, 212, 0.14));
+}
+
 .project-icon.warm {
   color: #fff7e7;
   background:
